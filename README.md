@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá! Eu sou Fabio, estudante de Análise e Desenvolvimento de Sistemas  por tecnologia e curiosa por natureza. Ainda estou dando meus primeiros passos nesse universo, mas estou sempre buscando aprender, praticar e evoluir.
 
-<!--
-**Fabiojsilva91/Fabiojsilva91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+🎓 Estudante de ADS
+📍 Poá, SP
+💡 Interessada em desenvolvimento web, lógica de programação e ferramentas que facilitam a vida
+📚 Atualmente aprendendo: HTML, CSS, JavaScript e lógica de programação
+🤝 Aberta a conexões, dicas e colaborações!
 
-Here are some ideas to get you started:
+🛠️ Tecnologias em aprendizado
+HTML5
+CSS3
+JavaScript (básico)
+Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Objetivos
+Criar meus primeiros projetos práticos
+Compartilhar minha jornada de aprendizado
+Contribuir com a comunidade de desenvolvedores iniciantes
+
+📬 Contato
+Você pode me encontrar por aqui mesmo no GitHub ou me mandar uma mensagem pelo [Linkedin].(https://www.linkedin.com/in/fabio-jos%C3%A9-da-s%C3%ADlva-6a445b381/)
