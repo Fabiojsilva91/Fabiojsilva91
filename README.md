@@ -19,7 +19,9 @@
 ## 🛠️ Tecnologias em aprendizado
 
 Python
+
 My SQL
+
 Git & GitHub
 
 ## 📈 Objetivos
