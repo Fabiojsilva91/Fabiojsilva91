@@ -3,16 +3,16 @@
  Olá! Eu sou Fabio, estudante de Análise e Desenvolvimento de Sistemas, entusiasta da área da tecnologia. Ainda estou dando meus primeiros passos nesse universo, mas estou sempre buscando aprender, praticar e evoluir.
 
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 
 🎓 Estudante de ADS
 
-📍 Poá, SP
+ Poá, SP
 
 💡 Buscando desenvolvimento web, lógica de programação, banco de dados e ferramentas que facilitam a vida
 
-📚 Atualmente aprendendo: Python, My SQL e lógica de programação
+ Atualmente aprendendo: Python, My SQL e lógica de programação
 
 🤝 Aberto a conexões, dicas e colaborações!
 
