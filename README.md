@@ -8,11 +8,11 @@
 
 🎓 Estudante de ADS
 
- Poá, SP
+   Poá, SP
 
 💡 Buscando desenvolvimento web, lógica de programação, banco de dados e ferramentas que facilitam a vida
 
- Atualmente aprendendo: Python, My SQL e lógica de programação
+   Atualmente aprendendo: Python, My SQL e lógica de programação
 
 🤝 Aberto a conexões, dicas e colaborações!
 
